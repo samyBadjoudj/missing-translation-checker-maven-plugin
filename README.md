@@ -7,4 +7,7 @@ and find the missings ones in the alternatives languages
 
 It's really simple to us have a look at this example (https://github.com/samyBadjoudj/missing-translation-checker-maven-plugin-usage/blob)
 
+BTW I can share the ftp I'm hosting the maven repository, just drop me a line
+
+
 Samy Badjoudj
