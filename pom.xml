@@ -122,7 +122,7 @@
     <distributionManagement>
         <repository>
             <id>perso-maven-ftp</id>
-            <url>ftp://ftp.example.net/home/samiam/public_html/maven2</url>
+            <url>ftp://maven-repo.bugs3.com/</url>
         </repository>
     </distributionManagement>
 </project>
