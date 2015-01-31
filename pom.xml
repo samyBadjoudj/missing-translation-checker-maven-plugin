@@ -110,4 +110,11 @@
             </plugin>
         </plugins>
     </build>
+
+    <distributionManagement>
+        <repository>
+            <id>perso-maven-ftp</id>
+            <url>ftp://ftp.example.net/home/samiam/public_html/maven2</url>
+        </repository>
+    </distributionManagement>
 </project>
